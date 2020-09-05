@@ -14,7 +14,7 @@ Specifically, you need to perform the following tasks:
 
 1. Select an Engineering and/or Science department faculty listing page of a university of your choice and fill the [sign up sheet](https://docs.google.com/spreadsheets/d/198HqeztqhCHbCbcLeuOmoynnA3Z68cVxixU5vvMuUaM/edit?usp=sharing). You will need to login with your Illinois email id to access the sign up sheet. While selecting the university you must ensure the following: 
     **a.** The faculty directory page and the faculty home pages are in English. 
-    **b.** The selected university department is different from the ones already chosen by your classmates. If you do run out of options for university departments toward the end, you may choose a non Engineering/Science department from an already selected university **except UIUC**.
+    **b.** The selected university department is different from the ones already present on the sign up sheet. If you do run out of options for university departments toward the end, you may choose a non Engineering/Science department from an already selected university **except UIUC**.
 
 2. Scrape the faculty listing page and all the faculty homepages using Python. Finally, you should generate two output .txt files called **bios.txt** and **bio_urls.txt**. 'bio_urls.txt' should contain the urls of all the faculty homepages and have one url per line. 'bios.txt' should contain the text scraped from all the urls in 'bio_urls.txt', and again have one document per line. The two files must have the same order, that is, the first line in 'bios.txt' should correspond to the text extracted from the url in the first line of 'bio_urls.txt'. 
 
