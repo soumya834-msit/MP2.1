@@ -12,7 +12,7 @@ You then need to scrape all the text information, such as the faculty bio, from 
 
 Specifically, you need to perform the following tasks:
 
-1. Select an Engineering and/or Science department faculty listing page of a university of your choice and fill the [sign up sheet](https://docs.google.com/spreadsheets/d/198HqeztqhCHbCbcLeuOmoynnA3Z68cVxixU5vvMuUaM/edit?usp=sharing). While selecting the university you must ensure the following: 
+1. Select an Engineering and/or Science department faculty listing page of a university of your choice and fill the [sign up sheet](https://docs.google.com/spreadsheets/d/198HqeztqhCHbCbcLeuOmoynnA3Z68cVxixU5vvMuUaM/edit?usp=sharing). You will need to login with your Illinois email id to access the sign up sheet. While selecting the university you must ensure the following: 
     **a.** The faculty directory page and the faculty home pages are in English. 
     **b.** The selected university department is different from the ones already chosen by your classmates. If you do run out of options for university departments toward the end, you may choose a non Engineering/Science department from an already selected university **except UIUC**.
 
