@@ -71,13 +71,11 @@ https://cs.illinois.edu/about/people/all-faculty/jingrui
 https://cs.illinois.edu/about/people/all-faculty/heath
 http://publish.illinois.edu/glherman/
 https://cs.illinois.edu/about/people/all-faculty/juliahmr
-http://dhoiem.cs.illinois.edu/
 https://yihchun.com
 https://cs.illinois.edu/about/people/all-faculty/jianh
 https://cs.illinois.edu/about/people/all-faculty/yunhuang
 https://cs.illinois.edu/about/people/all-faculty/w-hwu
 http://depend.csl.illinois.edu/
-https://www.ics.uci.edu/~jabbarvr/
 http://shj.cs.illinois.edu
 http://blender.cs.illinois.edu/hengji.html
 https://cs.illinois.edu/about/people/all-faculty/jiang56
