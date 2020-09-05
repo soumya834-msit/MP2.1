@@ -53,7 +53,7 @@ a. Submitted all the files. There should be at least six URLs in "bio_urls.txt".
 			│   ├── bios.txt
 			│   └── scraper.ipynb
 			└── scraper_code
-			    └── scraper.ipynb
+			    └── scraper.ipynb  OR scraper.py
 
 
 b. "bios.txt" and "bio_urls.txt" are properly formatted as mentioned in 2. above -- +0.2 points  
