@@ -31,7 +31,7 @@ Python Libraries:
     
 Some Tutorials:
 - https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe
-- http://stanford.edu/~mgorkove/cgi-bin/rpython_tutorials/Scraping_a_Webpage_Rendered_by_Javascript_Using_Python.php. 
+- https://towardsdatascience.com/data-science-skills-web-scraping-javascript-using-python-97a29738353f. 
    
 Finally, the browser developer tools are highly useful to inspect and identify the HTML elements where the required information resides in the webpage. 
 
