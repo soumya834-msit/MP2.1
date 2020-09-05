@@ -18,7 +18,7 @@ Specifically, you need to perform the following tasks:
 
 2. Scrape the faculty listing page and all the faculty homepages using Python. Finally, you should generate two output .txt files called **bios.txt** and **bio_urls.txt**. 'bio_urls.txt' should contain the urls of all the faculty homepages and have one url per line. 'bios.txt' should contain the text scraped from all the urls in 'bio_urls.txt', and again have one document per line. The two files must have the same order, that is, the first line in 'bios.txt' should correspond to the text extracted from the url in the first line of 'bio_urls.txt'. 
 
-3. Place all your code in one folder and name it **scraper_code**. Add the folder alongwith the two output .txt files here. 
+3. Place all your code in one folder and name it **scraper_code**.  
 
 A sample script for scraping UIUC CS department faculty homepages has been provided to you under the sample folder in the form a jupyter notebook. You can download it and run it on your machine using the [jupyter notebook command](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html). We also provide the two output files generated from the script under the same folder. This should help you get started with developing scrapers for other universities' faculty homepages as well. 
 
