@@ -26,7 +26,7 @@ Additionally, you might find the following resources useful:
 
 Python Libraries:
 - [Beautiful Soup] (https://www.crummy.com/software/BeautifulSoup/bs4/doc/): Useful for parsing HTML extracted from websites.
-- [Requests](http://docs.python-requests.org/en/master/): Useful for downloading content from urls
+- [urllib.request](https://docs.python.org/3/library/urllib.request.html): Useful for downloading content from urls
 - [Selenium](https://seleniumhq.github.io/selenium/docs/api/py/): Useful when Requests is unable to download content rendered by Javascript
     
 Some Tutorials:
