@@ -42,7 +42,7 @@ We will use the following rubric for grading. Points are awarded in a sequential
 
 a. Submitted all the files. There should be at least six URLs in "bio_urls.txt". -- 0.1 points 
 
-		Your repo have the following files:
+		Your repo should have the following files:
 
 			├── README.md
 			├── bio_urls.txt
