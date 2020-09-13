@@ -8,10 +8,6 @@ Nisar Ahmed--> Autonomous Systems (AUT)PhD, Mechanical Engineering (Dynamics, Sy
 	2014, ASEE Air Force Summer Faculty Fellowship
 	2011, AIAA Guidance, Navigation and Control Conference Best Paper Award
 	2008 - 2011, National Science Foundation Graduate Research FellowshipCollaborative human and autonomous robot vehicle systems; dynamic state estimation and sensor fusion; supervisory control and decentralized coordination in networked systems; statistical system identification, machine learning and artificial intelligence for aerospace applications
-
-
-
-
 Dennis Akos--> Astrodynamics &amp; Satellite NavigationPh.D., Electrical and Computer Engineering, Ohio University, 1997
 	M.S., Mathematics, Ohio University, 1996
 	M.S., Electrical and Computer Engineering, Ohio University, 1992
@@ -28,10 +24,6 @@ Dennis Akos--> Astrodynamics &amp; Satellite NavigationPh.D., Electrical and Com
 	FAA Excellence in Aviation Research (1997) 
 	William E. Jackson RTCA Award (1997) 
 	Gustavus E. Smith Award (1996)RF Signal processing, RF interference, Integrated Navigation Systems, VHF modulation
-
-
-
-
 Allie Anderson--> BioastronauticsPhD, Aerospace Biomedical Engineering, Massachusetts Institute of Technology, 2014
 	MS, Aerospace Engineering, Massachusetts Institute of Technology, 2011
 	MS, Technology Policy Program, Massachusetts Institute of Technology, 2011
@@ -48,10 +40,6 @@ Allie Anderson--> BioastronauticsPhD, Aerospace Biomedical Engineering, Massachu
 	Planetary exploration
 	Wearable sensor systems
 	 
-
-
-
-
 Brian  Argrow--> Autonomous Systems, Fluid DynamicsPhD, Aerospace Engineering, University of Oklahoma, 1989
 	MS, Mechanical Engineering, University of Oklahoma, 1986
 	BS, with distinction, Aerospace Engineering, University of Oklahoma, 19832019 - Present, Schaden Leadership Chair, University of Colorado
@@ -71,10 +59,6 @@ Brian  Argrow--> Autonomous Systems, Fluid DynamicsPhD, Aerospace Engineering, U
 	The Charles A. Hutchinson Memorial Teaching Award (1996)
 	Engineering Teaching Excellence Award, W.M. Keck Foundation (1995)Unmanned Aerospace Vehicles (UAVs), high-speed and hypersonic aerodynamics, dense gas dynamics, rarefied gas dynamics.
 	 
-
-
-
-
 Penina Axelrad--> Astrodynamics &amp; Satellite NavigationPh.D., Aeronautics and Astronautics, Stanford University, 1991
 	S.M., Aeronautical and Astronautical Engineering, M.I.T., 1986
 	S.B., Aeronautical Engineering (Avionics Option), M.I.T., 19852012-2017, Chair, Aerospace Engineering Sciences, University of Colorado
@@ -98,10 +82,6 @@ Penina Axelrad--> Astrodynamics &amp; Satellite NavigationPh.D., Aeronautics and
 	AIAA Lawrence Sperry Award (1996)
 	Member Sigma Xi and Tau Beta PiGlobal Positioning System (GPS) technology and applications for real-time satellite orbit and attitude determination, GPS surface reflections, GPS multipath characterization and mitigation, orbital dynamics and spacecraft rendezvous.
 	 
-
-
-
-
 Natasha Bosanac--> Astrodynamics &amp; Satellite NavigationPh.D., Aeronautics &amp; Astronautics, Purdue University, 2016
 	M.S.A.A., Aeronautics &amp; Astronautics, Purdue University, 2012
 	S.B., Aerospace Engineering, Massachusetts Institute of Technology, 2010January 2017, Assistant Professor, Aerospace Engineering Sciences, University of Colorado
@@ -109,10 +89,6 @@ Natasha Bosanac--> Astrodynamics &amp; Satellite NavigationPh.D., Aeronautics &a
 	2011-2016, Graduate Assistant, Aeronautics &amp; Astronautics, Purdue UniversitySpacecraft trajectory design and optimization
 	Celestial mechanics
 	Dynamical systems theory
-
-
-
-
 Iain  Boyd--> Fluids, Structures and MaterialsPhD, Aeronautics and Astronautics, University of Southampton, England, 1988
 	BSc (with Honors), Mathematics, University of Southampton, England, 19852019 - Present, Professor, Smead Aerospace Engineering Sciences, University of Colorado Boulder
 	2019 - Present, National Security Faculty Director, CU Boulder Research and Innovation Office
@@ -128,10 +104,6 @@ Iain  Boyd--> Fluids, Structures and MaterialsPhD, Aeronautics and Astronautics,
 	Fellow, American Institute of Aeronautics &amp; Astronautics, 2011
 	Paper selected by Physics of Plasmas as one of its most significant publications in 50 years, 2009
 	AIAA Lawrence Sperry Award, 1998Hypersonic aerothermodynamics, electric propulsion, rocket plumes and computation of nonequilibrium gas and plasma dynamics.
-
-
-
-
 James Brasseur--> Fluid Dynamics, Turbulence, Aerodynamics, Geophysical Flows, BiomechanicsPh.D., Aeronautical and Astronautical Science (minor, Physics), Stanford University, 1979
 	M.S., Aeronautical and Astronautical Engineering, Stanford University, 1976
 	B.S., Aerospace Engineering, University of Maryland, 1973July 2019 - June 2022, Guest Professor of Computational Biopharmaceutical Mechanics, Uppsala University, Sweden.
@@ -159,10 +131,6 @@ James Brasseur--> Fluid Dynamics, Turbulence, Aerodynamics, Geophysical Flows, B
 	Elected to the Permanent Scientific Committee of the World Organization for Specialized Studies on Diseases of the Esophagus (OESO) 2007
 	Inducted into The Johns Hopkins University Society of Scholars 2000
 	Elected President of the Dysphagia Research Society 1999Turbulence physics, turbulent flows, and turbulent combustion; Geophysical turbulence and micro/mesoscale meteorology; large-eddy simulation and direct numerical simulation of turbulence flows; wind energy and wind turbine dynamics; computational fluid dynamics and high-performance computing; biofluid dynamics, muscle mechanics, physiology and mechanics of gastro-intestinal function; pharmaceutical transport, dissolution, bioequivalence and absorption in the GI tract; image analysis and scientific visualization. 
-
-
-
-
 Xinzhao Chu--> Remote Sensing, Earth, &amp; Space SciencesPh.D., Physics and Electrical Engineering, Peking University, Beijing, 1996
 	B.S., Physics and Electrical Engineering, Peking University, Beijing, 19912013 - Present, Professor, Aerospace Engineering Sciences, University of Colorado Boulder
 	2007 - 2013, Associate Professor, Aerospace Engineering Sciences, University of Colorado Boulder
@@ -179,10 +147,6 @@ Xinzhao Chu--> Remote Sensing, Earth, &amp; Space SciencesPh.D., Physics and Ele
 	NSF recognition of the completion of a successful season at Amundsen-Scott South Pole Station, Antarctica (2000,2001)
 	NASA recognition of valuable contribution to the success of the 1998 Leonid Meteor Encounter Multi-Instrument Airborne Science Mission(1998)Lidar remote sensing instrumentation and applications on various platforms; Atmospheric and space sciences; Atomic, molecular, and laser physics and spectroscopy; Photonics, optoelectronics, and quantum electronics; Atmospheric remote sensing using lidar, radar, and satellite techniques.
 	 
-
-
-
-
 Torin Clark--> PhD, Aeronautics and Astronautics, Massachusetts Institute of Technology, 2013
 	MS, Aeronautics and Astronautics, Massachusetts Institute of Technology, 2010
 	BS, Aerospace Engineering Sciences, University of Colorado, 20082016 - Present, Assistant Professor, Aerospace Engineering Sciences, University of Colorado
@@ -196,16 +160,8 @@ Torin Clark--> PhD, Aeronautics and Astronautics, Massachusetts Institute of Tec
 	Selected for National Academies' Forum for New Leaders in Space Science, 2016
 	Stanley Roscoe Award for Best Doctoral Thesis from the Aerospace Human Factors Association, 2014Astronaut biomedical and cognitive issues, aerospace human factors, human sensorimotor/vestibular function and adaptation, interaction of human-autonomous systems, mathematical models of spatial orientation perception and motion sickness, pilot spatial disorientation, artificial gravity, human-in-the-loop experiments 
 	 
-
-
-
-
 Stefanie  Countryman--> Ms. Stefanie Countryman is the Director of BioServe Space Technologies and a Research Associate within the Ann and H.J. Smead Aerospace Engineering and Science Department at the University of Colorado Boulder.  Countryman has worked for BioServe for over 20 years. As Director, she leads a wide variety of activities including developing and overseeing the strategic direction of BioServe, grant writing and technical and programmatic oversight of space life science investigations and engineering projects.Countryman has been involved in or directly responsible for the development and/or management of over 50 different space life science experiments ranging from the simple to the very complex.  She is intimately familiar with the process for developing, launching and operating life science experiments in space as well as the development of supporting space flight hardware.  Countryman has expertise in translating ground-based life science research into space based life science research. While she has experience with the translation of many different types of life science experiments, mammalian cell culture in particular, is her area of expertise and focus.Recently she has been involved with experiments examining microgravity effects on proximal tubule epithelial cells of the kidneys, induced pluripotent stem cells, mesenchymal stem cells, cardiomyocytes and endothelial cells.  Each experiment seeks to utilize the microgravity environment as a model for different types of human disease, including aging, in order to seek more effective treatments for people on Earth.
 	 
-
-
-
-
 Alireza Doostan--> Structural &amp; Material SystemsPh.D., Structural Engineering, The Johns Hopkins University, 2006
 	M.A., Applied Mathematics and Statistics, The Johns Hopkins University, 2006
 	M.S., Structural Engineering, Sharif University of Technology, 2002
@@ -225,10 +181,6 @@ Alireza Doostan--> Structural &amp; Material SystemsPh.D., Structural Engineerin
 	NSF Early Career Research Award, 2015
 	DOE (ASCR) Early Career Research Award, 2011
 	Postdoctoral Fellowship, Center for Turbulence Research, Stanford University, 2007Uncertainty quantification (UQ), computational stochastic mechanics, model reduction for stochastic systems, large-scale statistical inverse analysis, model verification and validation (V&amp;V), estimation theory and data assimilation, structural dynamics.
-
-
-
-
 John Evans--> Fluid DynamicsPhD, Computational and Applied Mathematics, The University of Texas at Austin, 2011
 	MS, Computational and Applied Mathematics, The University of Texas at Austin, 2008
 	MS, Applied Mathematics, Rensselaer Polytechnic Institute, 2006
@@ -242,20 +194,12 @@ John Evans--> Fluid DynamicsPhD, Computational and Applied Mathematics, The Univ
 	Senior Member, American Institute for Aeronautics and Astronautics, 2015
 	Institute for Computational Engineering and Sciences Postdoctoral Fellowship, 2012 - 2013
 	Department of Energy Computational Science Graduate Fellowship, 2006 - 2010Computational mechanics with an emphasis on fluid dynamics, fluid-structure interaction, and turbulence modeling and simulation.  Specialization in high-order and structure-preserving methods.
-
-
-
-
 John Farnsworth--> Fluid DynamicsPh.D., Aeronautical Engineering, Rensselaer Polytechnic Institute, 2011
 	M.S., Aeronautical Engineering, Rensselaer Polytechnic Institute, 2007
 	B.S., Aeronautical and Mechanical Engineering, Rensselaer Polytechnic Institute, 20062014-Present, Assistant Professor, Aerospace Engineering Sciences, University of Colorado Boulder
 	2013-2014, Visiting Assistant Professor, Aerospace Engineering Sciences, University of Colorado Boulder
 	2011-2014, Postdoctoral Research Associate, Department of Aeronautics, United States Air Force AcademyMichael A. Sadowsky Prize, Rensselaer Polytechnic Institute, 2007
 	National Science Foundation Graduate Fellowship, Honorable Mention, 2006 &amp; 2007Experimental fluid dynamics focusing on image-based flow velocimetry, flow control, unsteady aerodynamics, three-dimensional flow fields, fluid-structure interaction, wind turbine aerodynamics, biologically inspired flight
-
-
-
-
 Jeffrey Forbes--> Remote Sensing, Earth, &amp; Space SciencesPh.D., Applied Physics, Harvard University, 1975
 	M.S., Electrical Engineering, University of Illinois, 1970
 	B.S., Electrical Engineering, University of Rhode Island, 19682017 - Present, Professor Emeritus &amp; Research Professor, Aerospace Engineering Sciences, University of Colorado
@@ -273,10 +217,6 @@ Jeffrey Forbes--> Remote Sensing, Earth, &amp; Space SciencesPh.D., Applied Phys
 	Air Force Meritorious Service Medal (1991)
 	Distinguished Visiting Scholar, Department of Physics, University of Adelaide, South Australia (1986)
 	Air Force Commendation Medal (1974)Professor Forbes' research interests include the upper atmosphere environments of Earth, Mars, and other planets; coupling of these environments to lower altitudes and to solar variability; geomagnetic storm effects on satellite drag variability; the vertical propagation of tides and planetary waves in planetary atmospheres, and their electrodynamic and chemical effects; utilization of accelerometer, satellite drag, and satellite remote sensing data to elucidate atmospheric variability, and to test, validate and develop upper atmosphere models. He also conducts numerical simulations of the above phenomena.
-
-
-
-
 Eric Frew--> Autonomous SystemsPh.D., Aeronautics and Astronautics, Stanford University, 2003
 	M.S., Aeronautics and Astronautics, Stanford University, 1996
 	B.S., Mechanical Engineering, Cornell University, 19952018 - Present, Professor, Aerospace Engineering Sciences, University of Colorado
@@ -292,10 +232,6 @@ Eric Frew--> Autonomous SystemsPh.D., Aeronautics and Astronautics, Stanford Uni
 	Dean's Faculty Fellowship, Spring 2009
 	Young Engineer of the Year, AIAA Rocky Mountain Section, 2006Networked heterogeneous unmanned aircraft systems, optimal distributed sensing by mobile robots, controlled mobility in ad-hoc sensor networks, miniature self-deploying systems, guidance and control of unmanned aircraft in complex atmospheric phenomena.
 	 
-
-
-
-
 Donna Gerren--> PhD, Aerospace Engineering, University of Kansas, Lawrence, 1995
 	MSE, Aerospace Engineering, University of Michigan, Ann Arbor, 1985
 	MS, Aerospace Engineering Sciences, University of Colorado, Boulder, 1979
@@ -324,10 +260,6 @@ Donna Gerren--> PhD, Aerospace Engineering, University of Kansas, Lawrence, 1995
 	Nominated for Sullivan-Carlson Teaching Award, 2000
 	AIAA Rocky Mountain Section Faculty Advisor Award, 1998, 1999 and 2000FAA certified private pilot with aerobatic training.
 	 
-
-
-
-
 Rick Hieb--> Project Managment, Human SpaceflightCoursework in Engineering Economics and Finance, University of Maryland, 1995
 	Coursework in Organic Chemistry and Biochemistry, University of Houston Clear Lake, 1981
 	MS, Aerospace Engineering, University of Colorado, 1979
@@ -365,15 +297,7 @@ Rick Hieb--> Project Managment, Human SpaceflightCoursework in Engineering Econo
 	David C. Schilling Award from the Air Force Association, 1992
 	NASA Special Achievement Award in 1992
 	Komorov Award from the Federation Aeronautique Internationale, 1991
-
-
-
-
 Bobby Hodgkinson--> 
-
-
-
-
 Marcus Holzinger--> PhD, Aerospace Engineering Sciences, University of Colorado Boulder, 2011
 	MS, Aeronautics &amp; Astronautics Engineering, University of Washington, 2005
 	BS, Aeronautics &amp; Astronautics Engineering, University of Washington, 20032018 - Present, Associate Professor, Aerospace Engineering Sciences Dept., University of Colorado Boulder
@@ -388,10 +312,6 @@ Marcus Holzinger--> PhD, Aerospace Engineering Sciences, University of Colorado 
 	AFOSR Young Investigator Award, 2017
 	ASEE Air Force Summer Faculty Fellow, AFRL/RDS, 2014
 	Northrop Grumman Space Technology Innovation Award, 2008Space Situational Awareness, Information Theory, Estimation, Optimal Control, Reachability Theory, Decision Theory &amp; Support, Autonomy, Robotics
-
-
-
-
 Mahmoud Hussein--> Courtesy Faculty Appointment, Department of Physics
 	Affiliate Faculty Appointment, Department of Applied MathematicsStructural &amp; Material SystemsPhD, Mechanical Engineering, University of Michigan-Ann Arbor, 2004
 	MS, Mathematics, University of Michigan-Ann Arbor, 2002
@@ -417,15 +337,7 @@ Mahmoud Hussein--> Courtesy Faculty Appointment, Department of Physics
 	Distinguished Achievement Award, College of Engineering, University of Michigan-Ann Arbor (2002)
 	Outstanding Graduate Student Instructor Award, Rackham Graduate School, University of Michigan-Ann Arbor (2001)Theoretical, computational and experimental dynamics of materials and structures; dispersive, dissipative and nonlinear dynamics; periodic systems, disordered systems; phononics including phononic crystals and metamaterials; vibrations and wave propagation, thermal transport in crystals, fluid-structure interaction, discrete dislocation dynamics; multiscale methods, model reduction methods, design and optimization.
 	 
-
-
-
-
 Jelliffe Jackson--> 
-
-
-
-
 Kenneth Jansen--> Bioastronautics, Fluid DynamicsPhD, Mechanical Engineering, Division of Applied Mechanics, with minor in Aeronautics &amp; Astronautics, Stanford University, 1993 
 	MS, Mechanical Engineering, Stanford University, 1988
 	BS, Mechanical Engineering, University of Missouri-Columbia, 19872010 - Present, Professor, Aerospace Engineering Sciences, University of Colorado Boulder
@@ -445,10 +357,6 @@ Kenneth Jansen--> Bioastronautics, Fluid DynamicsPhD, Mechanical Engineering, Di
 	R.H. Gallagher Young Investigator Award from the United States Association of Computational
 	Mechanics (2001)Computational mechanics with emphasis on fluid dynamics and turbulence modeling. Specialization in massively parallel simulations using unstructured/adaptive grids. Applications include aerodynamics (with an emphasis on flow control and turbulence), biological flows (cardiovascular and respiratory), and two-phase flows.
 	 
-
-
-
-
 Aaron Johnson--> PhD, Humans in Aerospace, Massachusetts Institute of Technology, 2015
 	MS, Aeronautics &amp; Astronautics, Massachusetts Institute of Technology, 2010
 	BSE, Aerospace Engineering, University of Michigan, 20082017 - 2019, Lecturer I, Aerospace Engineering, University of Michigan
@@ -459,10 +367,6 @@ Aaron Johnson--> PhD, Humans in Aerospace, Massachusetts Institute of Technology
 	2016, Stanley Roscoe Award for Best Doctoral Dissertation, Aerospace Human Factors Association
 	2014, Graduate Teaching Assistantship Award, MIT Department of Aeronautics &amp; Astronautics
 	2008, Donald W. Douglas Fellowship, MIT Department of Aeronautics &amp; Astronautics 
-
-
-
-
 Lakshmi Kantha--> Fluid Dynamics, Remote Sensing, Earth, &amp; Space SciencePh.D. Aeronautics and Astronautics, Massachusetts Institute of Technology, 1973
 	M.Eng. with distinction, Aeronautical Engineering, Indian Institute of Science, India, 1969
 	B.Eng., with distinction, Mechanical Engineering, Bangalore University, India, 19671991-present, Professor, Aerospace Engineering Sciences, University of Colorado
@@ -477,10 +381,6 @@ Lakshmi Kantha--> Fluid Dynamics, Remote Sensing, Earth, &amp; Space SciencePh.D
 	Naval Oceanographic Office and Naval Research Laboratory Special Act Award for Transitions (1996)
 	Naval Oceanographic and Atmospheric Research Laboratory Commendation for Outstanding Performance during Desert Storm (1991)
 	Institute for Naval Oceanography Incentive Award for assistance to U. S. Navy during Desert Storm (1991)Numerical models of the oceans and related physical processes. Assimilation of remotely sensed data into numerical ocean models, nowcasting, and short-term forecasting of the ocean state; circulation in marginal and coastal bodies of water. Ocean-atmosphere interactions and their implications to long term weather and climate through coupled models.Additional Research:<a href="https://www.colorado.edu/aerospace/sites/default/files/attached-files/2006_eos_kantha.pdf">Time to Replace the Saffir-Simpson Hurricane Scale?</a><a href="https://www.colorado.edu/aerospace/sites/default/files/attached-files/2013_oe_hurricane.pdf">Classification of hurricanes: Lessons from Katrina, Ike, Irene, Isaac and Sandy</a>
-
-
-
-
 David Klaus--> BioastronauticsPhD, Aerospace Engineering Sciences, University of Colorado, 1994
 	MS, Aerospace Engineering Sciences, University of Colorado, 1991
 	BS, Mechanical Engineering, West Virginia University, 19842015 - Present, Professor, Aerospace Engineering Sciences, University of Colorado
@@ -509,10 +409,6 @@ David Klaus--> BioastronauticsPhD, Aerospace Engineering Sciences, University of
 	Thora W. Halstead Young Investigator's Award, ASGSB (2003)
 	NASA Astronaut Candidate Finalist (1998 and 2000)
 	Fulbright Scholarship (1994-95)Spacecraft habitat design and operations, environmental control and life support system (ECLSS) technology development, spaceflight risk analysis, prior work involving microbial response to weightlessness and microgravity simulation techniques.
-
-
-
-
 Delores Knipp--> Remote Sensing, Earth, &amp; Space SciencesPh.D., Atmospheric Science, University of California, Los Angeles, 1989
 	M.S., Atmospheric Science, University of Missouri, 1984
 	B.S., Agriculture, University of Missouri, 19762013 - Present, Research Professor, Aerospace Engineering Sciences Department, University of Colorado Boulder
@@ -527,19 +423,11 @@ Delores Knipp--> Remote Sensing, Earth, &amp; Space SciencesPh.D., Atmospheric S
 	USAF Academy Professor of the Year (2008)
 	US Air Force Basic Research Award (1997)Space environment, solar wind-geospace coupling, satellite drag, data assimilation, space weather education.
 	 
-
-
-
-
 Morteza Lahijanian--> PhD, Mechanical Engineering (Control Theory and Robotics), Boston University, 2013
 	MS,  Mechanical Engineering (Control Theory and Robotics), Boston University, 2009
 	BS,  Bioengineering, University of California, Berkeley, 20052018 - Present, Assistant Professor, Aerospace Engineering Sciences, University of Colorado Boulder
 	2015 - 2018, Research Scientist, Department of Computer Science, University of Oxford, UK
 	2013 - 2015, Postdoctoral Research Associate, Department of Computer Science, Rice UniversityDynamics, control theory, game theory, systems, and formal methods with applications in robotics, particularly motion planning, strategy synthesis, model checking, hybrid systems, and human-robot interaction.My main research theme is safety and soundness, and the emphasis is on safe automation through correct-by-construction algorithmic approaches; integrating control theory and formal methods to form powerful frameworks that enable autonomy in achieving complex tasks through high-level decision making with the awareness of low-level complexities and constraints of the physical system. 
-
-
-
-
 Dale Lawrence--> Astrodynamics and Satellite Navigation Systems, Autonomous SystemsPh.D., Electrical Engineering, Cornell University, 1985
 	M.S., Electrical Engineering, Cornell University, 1982
 	B.S., Electrical Engineering, Colorado State University, 19802010-present, Professor, Aerospace Engineering Sciences, University of Colorado
@@ -550,10 +438,6 @@ Dale Lawrence--> Astrodynamics and Satellite Navigation Systems, Autonomous Syst
 	Eta Kappa Nu Teaching Award, Department of Electrical and Computer Engineering, University of Cincinnati (1991)
 	Teaching Excellence Award, Department of Electrical and Computer Engineering, University of Cincinnati (1990)
 	Distinguished Publication Award, Martin Marietta Astronautics (1988)Spacecraft attitude determination and control, line of sight stabilization via vibration isolation and/or beam steering, theory and applications of system identification and adaptive control, teleoperation, scientific visualization using haptic (touch) interfaces, human haptic perception, collaborative engineering design.
-
-
-
-
 Xinlin Li--> Remote Sensing, Earth, &amp; Space ScienceBS, 1982, University of Science and Technology of China
 	MS, 1985, Shanghai Institute of Optics and Fine Mechanics, Academia Sinica
 	PhD, 1992, Dartmouth College, New Hampshire, USA2011 - Present, Dept. of Aerospace Engineering Sciences and LASP, University of Colorado at Boulder, Professor.
@@ -571,10 +455,6 @@ Xinlin Li--> Remote Sensing, Earth, &amp; Space ScienceBS, 1982, University of S
 	The European Space Agency Award in recognition of outstanding contribution made to Cluster's exploration of Geospace, 2006.
 	NASA Group Achievement Awards, 1995, 1998
 	National Citation of Merit from Academia Sinica for Research Project: "Interaction of Intenses Laser Light with Plasmas", 1988.Dynamics of Earth's space environment and development of space borne instruments and CubeSat. Energy conversion from the solar wind into the magnetosphere, particle acceleration and transport, magnetic storms and substorms, and space weather effects. In particular: (1) Source, loss, energization, and transport of energetic particles in the magnetosphere, (2) Particle injections and magnetic and electric field configuration changes associated with geomagnetic storms and magnetospheric substorms. (3) Spatial structure and temporal variation of electric and magnetic fields in the Earth's space environment, (4) Prediction of energetic electrons in the magnetosphere and geomagnetic indices such as Dst and AE, (5) Design and development of energetic particle detectors and CubeSat.
-
-
-
-
 Francisco López Jiménez--> Structural &amp; Material SystemsPhD, Aeronautics, California Institute of Technology, 2011
 	MSc, Aerospace Engineering, California Institute of  Technology, 2007
 	Engineering Degree, Mechanical Engineering, University of Seville (Spain), 20062017 - Present, Assistant Professor, AES, University of Colorado
@@ -586,10 +466,6 @@ Francisco López Jiménez--> Structural &amp; Material SystemsPhD, Aeronautics, 
 	Slender structures and soft solids
 	Instabilities and buckling
 	Pattern formation and self-organization
-
-
-
-
 Robyn Macdonald--> Fluids, Structures and MaterialsPhD, Aerospace Engineering, University of Illinois at Urbana-Champaign, 2019
 	BS, Aerospace Engineering, University of Illinois at Urbana-Champaign, 2013Jan. 2021 - Assistant Professor, Aerospace Engineering Sciences, University of Colorado Boulder
 	2020 - Present, Visiting Assistant Professor, Aerospace Engineering Sciences, University of Colorado Boulder
@@ -598,10 +474,6 @@ Robyn Macdonald--> Fluids, Structures and MaterialsPhD, Aerospace Engineering, U
 	AE Faculty Outstanding Graduate Student Award, University of Illinois at Urbana-Champaign, 2018
 	National Defense Science and Engineering Graduate Fellowship, 2015-2018Hypersonic flows, computation of chemically reacting flows, chemical kinetics, radiation modeling
 	 
-
-
-
-
 John Mah--> MS, Aeronautics &amp; Astronautics, Stanford University
 	BS, Aeronautical Engineering, U.S. Air Force Academy2018 - Present, Instructor, Aerospace Engineering Sciences, University of Colorado
 	2015 - 2018, Chief of Target Operations &amp; Plans, Joint Staff Intelligence Directorate Pentagon-Washington, DC
@@ -611,15 +483,7 @@ John Mah--> MS, Aeronautics &amp; Astronautics, Stanford University
 	2004 - 2007, Director of Intel Operations 1st Special Operations Wing Hurlburt Field, FL2019, CU Engineering John and Mercedes Peebles Innovation in Education Award
 	2019, CU Boulder Marinus Smith Award
 	 
-
-
-
-
 David  Marshall--> Dual appointment with Mechanical EngineeringMaterials Science; Design of Materials for High Temperature Structures; Modeling and Testing of Thermal, Mechanical and Environmental Responses; Processing/Properties of Ceramics and Ceramic Composites.
-
-
-
-
 Robert Marshall--> <strong>Focus Area</strong>	Remote Sensing, Earth, &amp; Space Sciences <strong>Education</strong>	Ph.D., Electrical Engineering, Stanford University, 2009
 	M.S., Electrical Engineering, Stanford University, 2004
 	B.S., Electrical Engineering, University of Southern California, 2002 <strong>Professional Experience</strong>	2015-present, Assistant Professor, Aerospace Engineering Sciences, University of Colorado
@@ -633,10 +497,6 @@ Robert Marshall--> <strong>Focus Area</strong>	Remote Sensing, Earth, &amp; Spac
 	Gerald J. Lieberman Fellowship, 2007
 	First Place, URSI Student Paper Competition, 2007<strong>Research Interests</strong>Remote sensing and in situ studies of the atmosphere, ionosphere, and magnetosphere using optical, low-frequency radio, and energetic electron measurements; optical and radio systems and design; plasma physics; numerical simulations; observations and modeling of lightning and meteors.
 	 
-
-
-
-
 Tomoko Matsuo--> Remote Sensing, Earth, &amp; Space SciencesPhD, Atmospheric Science, State University of New York, Stony Brook, 2003
 	MS, Physics, Nagoya University, Japan,1998
 	BS, Geophysics, Hokkaido University, Japan, 19952017-present, Assistant Professor, Aerospace Engineering Sciences, University of Colorado
@@ -648,10 +508,6 @@ Tomoko Matsuo--> Remote Sensing, Earth, &amp; Space SciencesPhD, Atmospheric Sci
 	American Geophysical Union Outstanding Student Paper Award 2001
 	National Center for Atmospheric Research High Altitude Observatory Newkirk Graduate Fellowship 2002-2003
 	National Center for Atmospheric Research Advanced Study Program Graduate Fellowship 1999-2002 
-
-
-
-
 Kurt Maute--> Structural &amp; Material SystemsPh.D., Civil Engineering, with highest honors, University of Stuttgart, Stuttgart, Germany, 1998
 	Dipl.-Ing. Aerospace Engineering, with highest honors, University of Stuttgart, Stuttgart, Germany, 19922012-Present, Professor, Aerospace Engineering Sciences, University of Colorado
 	2012-2014, Associate Dean for Research
@@ -664,10 +520,6 @@ Kurt Maute--> Structural &amp; Material SystemsPh.D., Civil Engineering, with hi
 	Dean's Award for Outstanding Junior Faculty, College of Engineering &amp; Applied Science, University of Colorado at Boulder (2005)
 	NSF Career Award (2004)
 	Award for Excellent Research, University of Stuttgart, Stuttgart, GermanyStructural topology and shape optimization, multidisciplinary optimization, optimization of aeroelastic systems, adaptive discretization methods in structural optimization, optimization of materially nonlinear structures
-
-
-
-
 Jay McMahon--> Astrodynamics &amp; Satellite Navigation Systems (ASN)PhD, Aerospace Engineering Science, CU, 2011
 	MS, Astronautical Engineering, University of Southern California, 2006
 	BS, Aerospace Engineering (cum laude) , University of Michigan, 20042016 - Present, Assistant Professor, AES, University of Colorado
@@ -686,10 +538,6 @@ Jay McMahon--> Astrodynamics &amp; Satellite Navigation Systems (ASN)PhD, Aerosp
 	Asteroid and Comet Science
 	Solar System Exploration
 	 
-
-
-
-
 Timothy K. Minton--> Fluids, Structures and MaterialsPhD, Physical Chemistry, University of California, Berkeley, 1986
 	BS, Chemistry, University of Illinois, Urbana-Champaign, 19802020 – Present, Professor, Aerospace Engineering Sciences, University of Colorado, Boulder
 	2017 – Present, Member, Executive Advisory Board, Skeyeon, Inc.
@@ -711,10 +559,6 @@ Timothy K. Minton--> Fluids, Structures and MaterialsPhD, Physical Chemistry, Un
 	1995, NASA Monetary Award for the creative development of a technological contribution, “Semiconductor Etching by Hyperthermal Neutral Beams.”
 	1976 – 1980, Aurora (Illinois) Foundation Undergraduate ScholarshipGas-phase and gas-surface reaction dynamics.  Shock layer chemistry and physics in hypersonic flows.  Degradation and ablation of materials in low-Earth-orbital and atmospheric-entry environments.  Gas-surface energy transfer relevant to satellite drag.  Hypervelocity gas sampling in rarefied atmospheres.  Reactions in rocket exhaust plumes.  Structure, reactivity, and transport at gas-liquid interfaces.
 	 
-
-
-
-
 Jade Morton--> Astrodynamics and Satellite Navigation; Remote Sensing, Earth and Space SciencesPhD, Electrical Engineering, The Pennsylvania State University, 1991
 	MS, Electrical Engineering, Case Western Reserve University, 1987
 	BS, Physics, Nanjing University, 19832019 - Present, Director, Colorado Center for Astrodynamics Research, University of Colorado Boulder
@@ -747,10 +591,6 @@ Jade Morton--> Astrodynamics and Satellite Navigation; Remote Sensing, Earth and
 	Teaching Excellence award, School of Engineering &amp; Applied Sci., Miami University (2007)
 	National Research Council/AFOSR Summer Faculty Fellow (2004, 2003, 2002)
 	First place, Annual Graduate Research Exhibition, Penn State University (1990)Global Navigation Satellite Systems (GNSS) receiver technology for navigation in challenging environments and for remote sensing of the ionosphere, atmosphere, and Earth's surface.
-
-
-
-
 James Nabity--> BioastronauticsPh.D., Mechanical Engineering, University of Colorado (2007)
 	Systems Engineering Certificate Program, Naval Air Warfare Center Weapons Division (1998)
 	M.S., Aeronautics &amp; Astronautics, Naval Postgraduate School (1989)
@@ -763,10 +603,6 @@ James Nabity--> BioastronauticsPh.D., Mechanical Engineering, University of Colo
 	Letter of Appreciation from Capt. John Walsh, USN (1997)
 	Technical Fellow, Combustion, Naval Air Warfare Center Weapons Division (1996)
 	Long-term Training Fellowship (1988-1989 academic year)Environmental Control &amp; Life Support Systems (ECLSS) for human spaceflight; space habitat design; propulsion and power.
-
-
-
-
 Sanghamitra Neogi--> Structural &amp; Material SystemsPh.D., Physics, Pennsylvania State University, University Park, PA, 2011
 	M.Sc., Physics, Indian Institute of Technology, Kanpur, India, 2002
 	B.Sc., Physics, Jadavpur University, Kolkata, India, 20002015-Present, Assistant Professor, Aerospace Engineering Sciences, University of Colorado Boulder
@@ -779,10 +615,6 @@ Sanghamitra Neogi--> Structural &amp; Material SystemsPh.D., Physics, Pennsylvan
 	Young Research Fellowship, Indian Institute of Science (IISc.), Bangalore, India (1997-2000)
 	1st position among girls (7th overall) in 10+2 level examination conducted by Government of West Bengal, India (among ∼ 300,000 students) (1997)
 	1st position among girls (13th overall) in 10th level Madhyamik Examination conducted by Government of West Bengal, India (among ∼ 500,000 students) (1995)Theoretical and Computational Materials Science · Statistical Learning Methods · Quantum Systems · Nanoscale Heat Transport · Electronic Transport · Electron-Phonon Coupling · Neuromorphic Computing Materials · Dissipative and Nonlinear Dynamics · Energy Transport in Defected Systems · Solid-Solid Interfaces · Solid-Fluid Interfaces · Composite Systems 
-
-
-
-
 R. Steven Nerem--> Astrodynamics &amp; Satellite NavigationPhD, Aerospace Engineering, The University of Texas at Austin, 1989
 	MS, Aerospace Engineering, The University of Texas at Austin, 1985
 	BS, Geology, Colorado State University, 19822002 - Present, Associate Director of Colorado Center for Astrodynamics Research (CCAR), University of Colorado Boulder
@@ -809,10 +641,6 @@ R. Steven Nerem--> Astrodynamics &amp; Satellite NavigationPhD, Aerospace Engine
 	NASA/Goddard Space Flight Center Group Achievement Award (Lageos-2 Project Team),1993.
 	NASA/Goddard Space Flight Center Group Achievement Award (Joint Gravity Model 1 Team),1993.Satellite altimetry, sea level change, Earth gravity field determination, time variations of the Earth's gravity field, planetary geodesy, precision orbit determination, astrodynamics.
 	 
-
-
-
-
 Scott Palo--> Remote Sensing, Earth, &amp; Space Sciences
 	Vehicle Systems
 	Astrodynamics &amp; Satellite NavigationPh.D., Electrical Engineering, University of Colorado, 1994
@@ -836,18 +664,10 @@ Scott Palo--> Remote Sensing, Earth, &amp; Space Sciences
 	Dean's Teaching Excellence Award (2005)
 	Sigma Xi Northwest Regional Young Investigator (2004 &amp; 2005)Design, construction, deployment and operation of small satellite systems.  Remote sensing of the thermosphere and ionosphere.  Meteor radar design and operation.  Arctic and Antarctic UAS measurement systems.
 	 
-
-
-
-
 Nicholas Rainville--> PhD, Aerospace Engineering Sciences, University of Colorado
 	MS, Aeronautics and Astronautics, Purdue University
 	BS, Electrical and Computer Engineering, Northeastern University2019 – Present, Instructor, Aerospace Engineering Sciences, University of Colorado
 	2006 – 2012, Microprocessor Design Engineer, IBMEmbedded system design for small satellites and distributed instruments. Signals of Opportunity remote sensing, including GNSS remote sensing. Software Radar development and operation. 
-
-
-
-
 Hanspeter Schaub--> Astrodynamics &amp; Satellite NavigationPh.D, Aerospace Engineering, Texas A&amp;M University, 1998 
 	M.S., Aerospace Engineering, Texas A&amp;M University, 1996 
 	B.S., Aerospace Engineering, Texas A&amp;M University, 19942017 – Present, Glenn L. Murphy Chair of Engineering, College of Engineering and Applied Science
@@ -881,10 +701,6 @@ Hanspeter Schaub--> Astrodynamics &amp; Satellite NavigationPh.D, Aerospace Engi
 	1998, Distinguished Graduate Student Doctoral Research Award, Texas A&amp;M University
 	1992 – 1993 Regents Graduate Fellowship for graduate study at Texas A&amp;M UniversityOrbital mechanics, Relative Motion Dynamics, Attitude Dynamics and Control, Nonlinear dynamics, Charged astrodynamics
 	 
-
-
-
-
 Daniel Scheeres--> Astrodynamics &amp; Satellite NavigationPhD, Aerospace Engineering, The University of Michigan, 1992
 	MSE, Aerospace Engineering, The University of Michigan, 1988
 	BSE, Aerospace Engineering (<em>summa cum laude</em>), The University of Michigan, 1987
@@ -912,37 +728,17 @@ Daniel Scheeres--> Astrodynamics &amp; Satellite NavigationPhD, Aerospace Engine
 	Asteroid (8887) 1994LK1 renamed <a href="https://minorplanetcenter.net/db_search/show_object?object_id=8887">(8887) Scheeres. </a>Dictionary of Minor Planet Names, 4th Ed., L.D. Schmadel, Springer (1999)
 	Graduated summa cum laude from The University of Michigan (1987)
 	 
-
-
-
-
 Trudy Schwartz--> M.S., Aerospace Engineering Sciences, University of Colorado Boulder, 1998
 	B.S., with distinction, Mechanical Engineering, University of Colorado Boulder, 19952005-Present, Senior Instructor, Aerospace Engineering Sciences, University of Colorado Boulder
 	2003-2005, Aerospace Lab Manager, Senior Professional Research Associate, University of Colorado Boulder
 	1997-2003, Module Integration Engineer, Integrated Teaching Learning Laboratory, University of Colorado BoulderOutstanding Service Award, Faculty award in the Aerospace Department, 2015Facilitating Interdisciplinary Hands-on Learning Using LabVIEW, T.L. Schwartz, and B.M. Dunkin, International Journal of Engineering Education, IJEE 2000.
-
-
-
-
 Hank Scott--> 
-
-
-
-
 Mark Sirangelo-->    
-
-
-
-
 Zoltan Sternovsky--> Earth and Space SciencesPh.D., Physics of Ionized Media, Charles University, Prague, 2001
 	M.S., Physics, Charles University, Prague, 19982009-Present, Assistant Professor, Aerospace Engineering Sciences, University of Colorado
 	2005-Present, Research Scientist, Laboratory for Atmospheric and Space Physics, University of Colorado
 	2002-2004, Research Associate, Physics Department, University of ColoradoOutstanding Junior Faculty, Department of Aerospace Engineering Sciences (2016)
 	Young Scientist Award, International Union of Pure and Applied Sciences (2011)Instrument development for sounding rockets and satellites; cosmic dust; lunar plasma and dust environment; physics of dusty plasmas, plasma diagnostics, dust charging, laboratory plasma physics, plasma simulations; mesospheric aerosol particles.
-
-
-
-
 Louis Stodieck--> BioastronauticsPhD, Aerospace Engineering, University of Colorado, 1985
 	MS, Aerospace Engineering, University of Colorado, 1981
 	BS, Aerospace Engineering, University of Colorado, 19792019 - Present, Chief Scientist, BioServe Space Technologies, Aerospace Engineering Sciences, University of Colorado
@@ -954,19 +750,11 @@ Louis Stodieck--> BioastronauticsPhD, Aerospace Engineering, University of Color
 	Medical Research Council of Canada Postdoctoral Fellowship (1985-1987)
 	National Science Foundation Doctoral Fellowship (1980-1983)Life sciences space flight experimentation, gravitational biology, cardiovascular physiology.
 	 
-
-
-
-
 Zachary Sunberg--> Autonomous SystemsPhD, Aeronautics and Astronautics, Stanford University, 2018
 	MS, Aerospace Engineering, Texas A&amp;M University, 2013
 	BS, Aerospace Engineering, Texas A&amp;M University, 2011Assistant Professor, Smead Aerospace, Jan. 2020 -
 	Postdoctoral Research Scholar, University of California Berkeley, 2018 - 20192012, National Science Foundation Graduate Research FellowshipPractical safety for autonomous vehicles; partially observable Markov decision processes; decision making under uncertainty; artificial intelligence; helicopter and fixed-wing aircraft control; autonomous vehicle interaction with humans; self-driving cars; active information gathering for state estimation
 	 
-
-
-
-
 Jeffrey Thayer--> Remote Sensing, Earth, &amp; Space SciencesPh.D., Atmospheric and Space Science, University of Michigan, 1990
 	M.S., Atmospheric Science, University of Michigan, 1986
 	B.S., Meteorology, State University of New York, College at Oneonta, 19842014 - Present, Chief Technology Officer, ASTRALiTe LLC.
@@ -989,10 +777,6 @@ Jeffrey Thayer--> Remote Sensing, Earth, &amp; Space SciencesPh.D., Atmospheric 
 	SRI International Presidential Achievement Award, 2004
 	NASA Group Achievement Award, 2000Remote sensing of the atmosphere and ionosphere using lidar and radar techniques; optical systems and design; atmospheric and space physics; geophysical fluid dynamics, electrodynamics, and plasma physics.
 	 
-
-
-
-
 James Voss--> Bioastronautics, Human SpaceflightHonorary PhD, University of Colorado, 2000
 	MS, Aerospace Engineering Sciences, University of Colorado, 1974
 	BS, Aerospace Engineering, Auburn University, 19722009 – Present, Scholar in Residence Aerospace Engineering Sciences, University of Colorado
@@ -1041,12 +825,4 @@ James Voss--> Bioastronautics, Human SpaceflightHonorary PhD, University of Colo
 	Honor Graduate and Leadership Award – US Army Ranger School (1975)
 	Distinguished Graduate – US Army Infantry Officer Basic Course (1974)
 	US Army Graduate Fellowship (1972)
-
-
-
-
 Christopher  Williams--> Remote Sensing, Earth, &amp; Space SciencesRadar remote sensing of precipitation from ground, airborne, and satellite platforms; Tropospheric precipitation microphysics and cloud dynamics. 
-
-
-
-
